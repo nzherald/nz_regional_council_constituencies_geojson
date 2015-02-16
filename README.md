@@ -1,7 +1,7 @@
 nz_regional_council_constituencies_geojson
 ============================
 
-Census Maori Constituencies boundaries as used by Statistics New Zealand, converted to GeoJSON
+Census Regional Council Constituencies boundaries as used by Statistics New Zealand, converted to GeoJSON
 
 ### Use with Bower:
 
